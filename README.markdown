@@ -8,8 +8,6 @@ It is able to expose this standalone installation in a command-line interface en
 the `pod` command-line tool, which it will request to install on launch of the application or
 through the ‘Install the Command-Line Tool…’ menu item under the application menu.
 
-### Download
-
 <p align="center">
 <a href="https://github.com/CocoaPods/CocoaPods-app/releases/latest">
   <img src="https://raw.githubusercontent.com/CocoaPods/CocoaPods-app/master/assets/screenshot.png" />
